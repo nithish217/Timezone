@@ -1,0 +1,6 @@
+site_location.admin_settings_form:  
+  title: 'Site Location configuration'  
+  route_name: site_location.admin_settings_form  
+  description: 'Select the site location and timezone.'  
+  parent: system.admin_config_system  
+  weight: 99

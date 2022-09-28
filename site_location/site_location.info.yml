@@ -1,0 +1,5 @@
+name: 'Site Location'
+type: module
+description: 'A module to display the Site location and the current time for the location saved in the configuration form'
+core_version_requirement: ^8.8 || ^9
+package: 'Custom'
